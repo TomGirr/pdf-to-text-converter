@@ -1,6 +1,3 @@
---- Page 1 ---
-PDF & Image to Text Converter - README
-
 ## PDF & Image to Text Converter
 
 This application allows you to extract text from images and PDFs using Tesseract OCR.
@@ -24,15 +21,14 @@ install Tesseract:
 2. Install Tesseract.
 3. Add the path to ‘tesseract.exe’ to your system's environment variables, or set the
 
-*TESSERACT_PATH’ environment variable.
+* TESSERACT_PATH’ environment variable.
 
 ### For macOS:
 
 You can install Tesseract using Homebrew:
-
-	```bash
-	brew install tesseract
-	```
+```
+brew install tesseract
+```
 
 ### For Linux:
 Tesseract can be installed using the package manager:
